@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+prices.csv
+price_cache/
+firm_cache/
+events_raw.csv

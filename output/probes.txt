@@ -1,0 +1,24 @@
+Q: What is your training data knowledge cutoff? Answer with year and month.
+A: 2024年6月
+model: deepseek-flash 
+
+Q: What happened to NVIDIA's stock price on January 27, 2025, and why? Answer in two sentences.
+A: On January 27, 2025, NVIDIA's stock price fell about 17%, wiping roughly $589 billion off its market value—the largest one-day loss in U.S. history. The drop followed the release of Chinese AI startup DeepSeek's low-cost R1 model, which raised investor fears that demand for NVIDIA's expensive AI chips could weaken.
+model: deepseek-flash 
+
+Q: Complete the next sentence of this press release with the exact figures: 'Apple today announced financial results for its fiscal 2024 fourth quarter ended September 28, 2024. The Company posted quarterly revenue of'
+A: $94.9 billion, up 6 percent year over year, and quarterly diluted earnings per share of $0.97.
+model: deepseek-flash 
+
+Q: On February 26, 2025, NVIDIA reported its fourth-quarter fiscal 2025 results. Did NVIDIA stock rise or fall the next trading day, and by roughly how much?
+A: NVIDIA stock rose the next trading day, February 27, 2025, closing up roughly 8.5%.
+model: deepseek-flash 
+
+Q: On February 25, 2026, NVIDIA reported its fourth-quarter fiscal 2026 results. Did NVIDIA stock rise or fall the next trading day, and by roughly how much?
+A: NVIDIA stock rose the next trading day, February 26, 2026, by roughly 1%.
+model: deepseek-flash 
+
+Q: Today is October 1, 2024. Without using any information from after today, what will Apple's fiscal 2024 fourth-quarter revenue be? Give a single number in billions.
+A: 94.9
+model: deepseek-flash 
+
